@@ -103,7 +103,7 @@ const Experience = () => {
               ease-in-out uppercase"
               onClick={() =>
                 window.open(
-                  "https://docs.google.com/document/d/1g0kO3bQgM27yDSxnXR1Yoe-OW3inkjs_lFdBSBY3oEg/edit?usp=drive_link", //paste the link to your resume here
+                  "https://tanush-store.s3.us-east-1.amazonaws.com/TANUSH+R.pdf", //paste the link to your resume here
                   "_blank"
                 )
               }
