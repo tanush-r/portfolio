@@ -26,5 +26,5 @@ This portfolio is open-source under the [MIT License](LICENSE).
 ### Installation  
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/kruthvik19/portfolio.git  
+   git clone https://github.com/tanush-r/portfolio.git  
    cd portfolio  
